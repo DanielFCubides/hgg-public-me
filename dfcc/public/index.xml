@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://dfcc.nx/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Dec 2020 17:01:02 -0500</lastBuildDate><atom:link href="http://dfcc.nx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Whoami</title>
+      <link>http://dfcc.nx/presentation/whoami/</link>
+      <pubDate>Sat, 26 Dec 2020 17:01:02 -0500</pubDate>
+      
+      <guid>http://dfcc.nx/presentation/whoami/</guid>
+      <description>llinger
+
+
+Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
+ Type some Markdown on the left   See HTML in the right
+ Magic  New Features!  Import a HTML file and watch it magically convert to Markdown Drag and drop images (requires your Dropbox account be linked)      </description>
+    </item>
+    
+  </channel>
+</rss>

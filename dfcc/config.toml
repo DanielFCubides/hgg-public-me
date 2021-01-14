@@ -1,0 +1,48 @@
+title = "Website of Daniel Fernando Cubides"
+baseURL = "https://dfcc.nx"
+languageCode = "en-us"
+theme = "anatole"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 9 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+changefreq = "monthly"
+priority = 0.5
+filename = "sitemap.xml"
+
+[params]
+title = "I'm Fernando Cubides"
+author = "Daniel Fernando Cubides   "
+description = "Backend software enginner"
+profilePicture = "/images/john.png"
+enableBlogPost = true
+enableTOC = true
+disquisShortname = "DFCC"
+comentoEnable = true
+favicon = ""
+site_logo = ""
+facebook = ""
+twitter = "https://twitter.com/GoHugoIO"
+instagram = ""
+youtube = ""
+github = ""
+gitlab = ""
+linkedin = ""
+mastodon = ""
+slack = ""
+stackoverflow = ""
+rss = ""
+recent_posts_number = 3
+
+
+[menu]
+
+[[menu.main]]
+name = "About me"
+weight = 400
+identifier = "about"
+url = "/about/"
+
