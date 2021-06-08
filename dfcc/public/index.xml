@@ -1,24 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://dfcc.nx/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Website of Daniel Fernando Cubides</title>
+    <link>https://dfcc.nx/</link>
+    <description>Recent content on Website of Daniel Fernando Cubides</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Dec 2020 17:01:02 -0500</lastBuildDate><atom:link href="http://dfcc.nx/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Dec 2020 17:31:42 -0500</lastBuildDate><atom:link href="https://dfcc.nx/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Whoami</title>
-      <link>http://dfcc.nx/presentation/whoami/</link>
-      <pubDate>Sat, 26 Dec 2020 17:01:02 -0500</pubDate>
+      <title>About me</title>
+      <link>https://dfcc.nx/about/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://dfcc.nx/presentation/whoami/</guid>
-      <description>llinger
-
-
-Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
- Type some Markdown on the left   See HTML in the right
- Magic  New Features!  Import a HTML file and watch it magically convert to Markdown Drag and drop images (requires your Dropbox account be linked)      </description>
+      <guid>https://dfcc.nx/about/</guid>
+      <description>profile profession: software engineer areas of interests: management, software architecture, software product lines</description>
+    </item>
+    
+    <item>
+      <title>Cv</title>
+      <link>https://dfcc.nx/cv/cv/</link>
+      <pubDate>Sat, 26 Dec 2020 17:31:42 -0500</pubDate>
+      
+      <guid>https://dfcc.nx/cv/cv/</guid>
+      <description>Daniel Fernando Cubides Cespedes profile profession: software engineer areas of interests: management, software architecture, software product lines</description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>https://dfcc.nx/education/education/</link>
+      <pubDate>Sat, 26 Dec 2020 17:31:42 -0500</pubDate>
+      
+      <guid>https://dfcc.nx/education/education/</guid>
+      <description>Education and courses Formal Education  Software Engineer - Universidad Nacional de Colombia - 2011 to 2016  Certifications  Strategic Negotiation Scrum Developer Entrepreuner game theory  Courses  International conference on software engineering  </description>
     </item>
     
   </channel>

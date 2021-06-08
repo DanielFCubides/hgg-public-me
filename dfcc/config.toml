@@ -15,9 +15,9 @@ filename = "sitemap.xml"
 
 [params]
 title = "I'm Fernando Cubides"
-author = "Daniel Fernando Cubides   "
-description = "Backend software enginner"
-profilePicture = "/images/john.png"
+author = "Daniel Fernando Cubides"
+description = "Engineering Manager"
+profilePicture = "/images/me200.png"
 enableBlogPost = true
 enableTOC = true
 disquisShortname = "DFCC"

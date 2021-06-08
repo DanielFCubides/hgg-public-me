@@ -1,28 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>http://dfcc.nx/</loc>
-    <lastmod>2020-12-26T17:01:02-05:00</lastmod>
+    <loc>https://dfcc.nx/about/</loc>
+    <lastmod>2021-01-13T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://dfcc.nx/cv/cv/</loc>
+    <lastmod>2020-12-26T17:31:42-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://dfcc.nx/cv/</loc>
+    <lastmod>2020-12-26T17:31:42-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://dfcc.nx/education/education/</loc>
+    <lastmod>2020-12-26T17:31:42-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://dfcc.nx/education/</loc>
+    <lastmod>2020-12-26T17:31:42-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://dfcc.nx/</loc>
+    <lastmod>2020-12-26T17:31:42-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://dfcc.nx/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://dfcc.nx/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
-  
-  <url>
-    <loc>http://dfcc.nx/presentation/</loc>
-    <lastmod>2020-12-26T17:01:02-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://dfcc.nx/presentation/whoami/</loc>
-    <lastmod>2020-12-26T17:01:02-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://dfcc.nx/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://dfcc.nx/tags/</loc>
-  </url>
-  
 </urlset>
