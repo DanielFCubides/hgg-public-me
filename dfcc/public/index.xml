@@ -6,7 +6,43 @@
     <description>Recent content on Website of Daniel Fernando Cubides</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Dec 2020 17:31:42 -0500</lastBuildDate><atom:link href="https://dfcc.nx/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Jun 2021 17:31:42 -0500</lastBuildDate><atom:link href="https://dfcc.nx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>company_1</title>
+      <link>https://dfcc.nx/sdlc/cyxtera/</link>
+      <pubDate>Mon, 14 Jun 2021 17:31:42 -0500</pubDate>
+      
+      <guid>https://dfcc.nx/sdlc/cyxtera/</guid>
+      <description>company 1 </description>
+    </item>
+    
+    <item>
+      <title>company_2</title>
+      <link>https://dfcc.nx/sdlc/merlin/</link>
+      <pubDate>Mon, 14 Jun 2021 17:31:42 -0500</pubDate>
+      
+      <guid>https://dfcc.nx/sdlc/merlin/</guid>
+      <description>company 2 </description>
+    </item>
+    
+    <item>
+      <title>company_3</title>
+      <link>https://dfcc.nx/sdlc/commure/</link>
+      <pubDate>Mon, 14 Jun 2021 17:31:42 -0500</pubDate>
+      
+      <guid>https://dfcc.nx/sdlc/commure/</guid>
+      <description>company 3 </description>
+    </item>
+    
+    <item>
+      <title>company_4</title>
+      <link>https://dfcc.nx/sdlc/mo/</link>
+      <pubDate>Mon, 14 Jun 2021 17:31:42 -0500</pubDate>
+      
+      <guid>https://dfcc.nx/sdlc/mo/</guid>
+      <description>company 4 </description>
+    </item>
+    
     <item>
       <title>About me</title>
       <link>https://dfcc.nx/about/</link>
