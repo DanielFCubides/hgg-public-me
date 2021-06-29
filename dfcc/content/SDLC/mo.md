@@ -28,3 +28,10 @@ Also, the company build a delivery team for every project that is acquired, ever
 - PM
 
 The delivery team ask for support if needed to the other areas.
+
+
+There are two main flows.
+
+Project flow
+
+Change request flow
